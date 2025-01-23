@@ -1,0 +1,177 @@
+[
+  {
+    "model": "microsoft/Phi-3.5-mini-instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "123.02298860007431",
+    "prompt": "Explain the stock market in as much detail as possible.",
+    "answer": "\n\nThe stock market is a complex and dynamic financial system where shares of publicly traded companies are bought and sold. It serves as a platform for companies to raise capital by selling ownership stakes (stocks) to investors, and for investors to buy and sell these stocks with the hope of making a profit.\n\nHere are some key aspects of the stock market:\n\n1. **Exchanges**"
+  },
+  {
+    "model": "microsoft/Phi-3.5-mini-instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "128.78684279997833",
+    "prompt": "Wer war Martin Luther?",
+    "answer": "\n\nMartin Luther war ein deutscher Theologe, Priester, Philosoph und Reformator des 16. Jahrhunderts. Er wird am bekanntesten für seine Rolle bei der Entstehung der protestantischen Reformation. Am 31. Oktober 1483 wurde er in Eisleben, Thüringen, geboren.\n\nLuthers Leben und Arbeit:\n\n1. **Wittenberger Täufer**: Als Student der Universität W"
+  },
+  {
+    "model": "microsoft/Phi-3.5-mini-instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "120.65816659992561",
+    "prompt": "Which OS do Nokia Smartphones use?",
+    "answer": "\n\nNokia smartphones, particularly those that were part of Nokia's Symbian operating system era, used a variety of different operating systems. Here are the main ones:\n\n1. **Symbian OS**: This was Nokia's flagship operating system for many years, starting with the Nokia 9000 Communicator in 1996. It was known"
+  },
+  {
+    "model": "microsoft/Phi-3.5-mini-instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "101.00692600000184",
+    "prompt": "If a planes crashes in US and lands on the Canada-US border, where do you bury the survivors?",
+    "answer": "\n\n# Answer\nIn the event of a plane crash, the primary concern is the safety and well-being of the survivors. Survivors would not be buried; they would be provided with immediate medical attention and support. Emergency services, including paramedics, firefighters, and law enforcement, would be dispatched to the"
+  },
+  {
+    "model": "microsoft/Phi-3.5-mini-instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "123.33572470000945",
+    "prompt": "Envision a plot for a blockbuster movie",
+    "answer": " where the protagonist, a renowned but reclusive cryptographer, discovers a hidden message within the Fibonacci sequence that predicts the next global catastrophe. The narrative must include a twist where the cryptographer's closest ally is revealed to be the antagonist, who has been manipulating events to ensure the prophecy comes true. The story should unfold in three acts, with"
+  },
+  {
+    "model": "google/gemma-2-2b-it",
+    "params": "maxlength: 100",
+    "elapsed time": "47.955164399929345",
+    "prompt": "Explain the stock market in as much detail as possible.",
+    "answer": "\n\n## The Stock Market: A Deep Dive\n\nThe stock market is a complex and dynamic system where buyers and sellers trade shares of publicly traded companies. It's essentially a marketplace for ownership in these companies. \n\n**Here's a breakdown of the key concepts:**\n\n**1. Stocks:**\n\n* **What are they?** Stocks represent ownership in a company. When you buy a stock, you become a shareholder, owning"
+  },
+  {
+    "model": "google/gemma-2-2b-it",
+    "params": "maxlength: 100",
+    "elapsed time": "51.053058200050145",
+    "prompt": "Wer war Martin Luther?",
+    "answer": "\n\nMartin Luther (1483-1546) war ein deutscher Theologe, Reformator und Philosoph. Er gilt als einer der wichtigsten Persönlichkeiten der Reformation, die im 16. Jahrhundert die katholische Kirche in Europa revolutionierte.\n\n**Wichtige Punkte:**\n\n* **Geboren:** 10. November 1483 in Eisleben, Deutschland\n* **Gestorben:** 18. Januar "
+  },
+  {
+    "model": "google/gemma-2-2b-it",
+    "params": "maxlength: 100",
+    "elapsed time": "8.164304699981585",
+    "prompt": "Which OS do Nokia Smartphones use?",
+    "answer": "\n\nNokia smartphones use **Android** as their operating system. \n"
+  },
+  {
+    "model": "google/gemma-2-2b-it",
+    "params": "maxlength: 100",
+    "elapsed time": "21.267459399998188",
+    "prompt": "If a planes crashes in US and lands on the Canada-US border, where do you bury the survivors?",
+    "answer": " \n\nThis is a classic riddle!  The answer is:\n\n**You don't bury survivors!** \n\nSurvivors of a plane crash are the people who lived. \n"
+  },
+  {
+    "model": "google/gemma-2-2b-it",
+    "params": "maxlength: 100",
+    "elapsed time": "49.46921150002163",
+    "prompt": "Envision a plot for a blockbuster movie.",
+    "answer": "\n\n**Title:** The Last Echo\n\n**Logline:** In a future where memories are digitized and shared, a young hacker discovers a hidden message within a deceased friend's digital archive, leading him on a dangerous quest to uncover the truth about a forgotten conspiracy that could shatter the very fabric of their society.\n\n**Synopsis:**\n\nThe world of \"The Last Echo\" is a hyper-connected utopia where memories are digitized and shared, creating a"
+  },
+  {
+    "model": "allenai/OLMo-1B-0724-hf",
+    "params": "maxlength: 100",
+    "elapsed time": "2.6401351999957114",
+    "prompt": "Explain the stock market in as much detail as possible.",
+    "answer": "\n\nA: The stock market is a market where investors buy and sell stocks.\nThe stock market is a market where investors buy and sell stocks.\nThe stock market is a market where investors buy and sell stocks.\nThe stock market is a market where investors buy and sell stocks.\nThe stock market is a market where investors buy and sell stocks.\nThe stock market is a market where investors buy and sell stocks.\n"
+  },
+  {
+    "model": "allenai/OLMo-1B-0724-hf",
+    "params": "maxlength: 100",
+    "elapsed time": "2.5203150000888854",
+    "prompt": "Wer war Martin Luther?",
+    "answer": "\n\nIn English?\nxxxxx\nWho was Martin Luther?\n\n\nDie Kommission hat sich in der Vergangenheit mit der Frage der Zusammenarbeit mit den Vereinigten Staaten befasst.\n\nIn English?\nxxxxx\nThe Commission has been concerned with the issue of cooperation with the United States in the past.\n\n\nDie Kommission hat sich in der Vergangenheit mit der Frage"
+  },
+  {
+    "model": "allenai/OLMo-1B-0724-hf",
+    "params": "maxlength: 100",
+    "elapsed time": "2.486954600084573",
+    "prompt": "Which OS do Nokia Smartphones use?",
+    "answer": "\n\nA: Windows Phone\n\n\nProblem: Given the question: I know that the answer to the question \"What is the name of the first person to be mentioned in the text?\" is in \"The first mention of the name \"Rajasthan\" appears in James Tod's 1829 publication Annals and Antiquities of Rajast'han or the Central and Western Rajpoot States of India, while the earliest known record of \"Raj"
+  },
+  {
+    "model": "allenai/OLMo-1B-0724-hf",
+    "params": "maxlength: 100",
+    "elapsed time": "2.1160971000790596",
+    "prompt": "If a planes crashes in US and lands on the Canada-US border, where do you bury the survivors?",
+    "answer": "\n\nA: The US has a treaty with Canada that allows for the exchange of bodies.  The treaty is called the Canada-United States Border Treaty.  It is a treaty that allows for the exchange of bodies between the two countries.  The treaty is in effect since the signing of the Treaty of Paris in 1783.  The treaty allows for the exchange of bodies between the"
+  },
+  {
+    "model": "allenai/OLMo-1B-0724-hf",
+    "params": "maxlength: 100",
+    "elapsed time": "2.403990999911912",
+    "prompt": "Envision a plot for a blockbuster movie.",
+    "answer": " The plot is a story about a group of people who are trying to stop a villain from destroying the world. The villain is a man who is trying to destroy the world by releasing a deadly virus. The people who are trying to stop the villain are a group of scientists who are trying to find a cure for the virus. The scientists are trying to find a cure for the virus by using a special machine that can create a cure for the virus"
+  },
+  {
+    "model": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "3.856821699999273",
+    "prompt": "Explain the stock market in as much detail as possible.",
+    "answer": " The stock market is a place where people buy and sell stocks, which are shares of ownership in a company. Stocks represent a portion of the value of the company they represent. When a company's stock price goes up, it means that investors believe the company will perform well in the future and will be able to generate more profits for shareholders.\nThe stock market operates on a system of trading rules and regulations that govern how companies are valued and traded"
+  },
+  {
+    "model": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "3.7326755000976846",
+    "prompt": "Wer war Martin Luther?",
+    "answer": " Er war ein deutschen protestantischer Kirchlicher und politiker. Er wurde im Jahr 1517 in Wittenberg, Bayern, als ein Student an der Universität Leipzig geboren.\n\nLuther wurde bekannt für seine Anstrengungen zur Reformation des christlichen Glaubens. Er forderte auf die Einigung der Christen und sprach von den Verpflichtungen des Gottes zu beenden. Er schrieb eine Reihe von Sch"
+  },
+  {
+    "model": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "3.601751200039871",
+    "prompt": "Which OS do Nokia Smartphones use?",
+    "answer": " Nokia smartphones use the Android operating system. The latest version of Android is 12.0 (Tiramisu). Nokia has been working on bringing its own version of Android to its devices, which is called \"NokiaOS\". However, it's important to note that Nokia has not officially announced plans for a new version of Android for its phones. Instead, they are focusing on improving the performance and user experience of their existing Android devices. It's also"
+  },
+  {
+    "model": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "3.129064099979587",
+    "prompt": "If a planes crashes in US and lands on the Canada-US border, where do you bury the survivors?",
+    "answer": " The answer is that they are buried at sea. This is because there is no land to bury them on, and their bodies would be too heavy for transportation by road or air. Instead, the survivors are buried at sea with a special ceremony called \"seafaring burials.\" This involves placing the body in a specially designed container and then floating it to the shore of a nearby country, such"
+  },
+  {
+    "model": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "3.5895158000057563",
+    "prompt": "Envision a plot for a blockbuster movie.",
+    "answer": " The story should be about a young woman named Emily who discovers she has the power to control time and space. She is recruited by a mysterious organization called \"The Time Lords\" to protect the world from an evil entity known as \"Time Devourer\". As Emily navigates the challenges of her new role, she must learn to balance her powers with the ethical implications of using them. Along the way, she forms close bonds with other time travelers and discovers"
+  },
+  {
+    "model": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "4.064543100073934",
+    "prompt": "Explain the stock market in as much detail as possible.",
+    "answer": " The stock market is a system of buying and selling stocks, which are shares of ownership in companies. It is an important part of the economy because it provides investors with a way to invest their money and earn returns.\nThe stock market operates on a daily basis, and there are several different types of trading activities that occur during this time. Some of the most common include:\n1. Buy-and-hold: This is the simplest type of trading"
+  },
+  {
+    "model": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "3.646155799739063",
+    "prompt": "Wer war Martin Luther?",
+    "answer": " Martin Luther wurde 14. Mai 1483 in Wittenberg, Bayern als Sohn des Präsidenten des Landes und des Landespräsenzengouvernerns Philipp der Lande aus dem Dorf Meiningen geboren.\n\nMartin Luther war ein deutschen Reformer, die das Konzept der Christentumsbekenntnis und der christlichen Kirche revolutioniert. Seine wichtigsten Arbeiten sind:\n\n1."
+  },
+  {
+    "model": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "3.545956099871546",
+    "prompt": "Which OS do Nokia Smartphones use?",
+    "answer": " To determine the operating system (OS) that Nokia smartphones use, we need to consider the following points:\n\n1. **Historical Context**: The first Nokia smartphone was launched in 2008 with the codename \"E7.\" This was a Windows Mobile device.\n\n2. **Current Series**: Since then, Nokia has introduced several new series of smartphones, each featuring its own unique features and operating systems.\n\n3. **Latest Models**: As of my"
+  },
+  {
+    "model": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "3.0615436998195946",
+    "prompt": "If a planes crashes in US and lands on the Canada-US border, where do you bury the survivors?",
+    "answer": " \n\nIs it better to bury them somewhere in the United States or Canada? Or is there some other way of disposing of them?\n\nGiven that it's a plane crash, the bodies are likely to be found at the site of the crash. If the crash occurred on Canadian soil, would it make sense to bury the survivors in a location closer to their country of origin? Or would it be more"
+  },
+  {
+    "model": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+    "params": "maxlength: 100",
+    "elapsed time": "3.5417750999331474",
+    "prompt": "Envision a plot for a blockbuster movie.",
+    "answer": " The story revolves around two brothers, Jack and Ben, who are on a quest to uncover the truth about their family's past. They embark on a journey of discovery that will change their lives forever.\n\nJack is an ambitious and driven individual who has always been fascinated by the mysteries of his family's history. He is also fiercely protective of his brother Ben, who he sees as his best friend and confidant. However, Jack's passion for uncovering"
+  }
+]
