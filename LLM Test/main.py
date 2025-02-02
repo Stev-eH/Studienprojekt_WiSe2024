@@ -17,6 +17,7 @@ login(token=hfFile.readline())
 # set values
 maxlength = 100
 
+usedHardware = ""
 
 #adjustable variables
 #enables the model to run on GPU
@@ -57,7 +58,7 @@ for prompt in prompts:
     print(response)
     elapsed_time = str(toc - tic)
 
-    datablocks.append(transformerLink, "maxlength: " + str(maxlength), elapsed_time, prompt, response)
+    datablocks.append(usedHardware, transformerLink, "maxlength: " + str(maxlength), elapsed_time, prompt, response)
 
 datablocks.write()
 
