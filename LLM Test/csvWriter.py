@@ -14,8 +14,9 @@ class DataFile:
             self.write()
 
 
-    def append(self, model, parameters, elapsedTime, prompt, answer):
+    def append(self, hardware, model, parameters, elapsedTime, prompt, answer):
         self.data.append({
+            "hardware": hardware,
             "model": model,
             "params": parameters,
             "elapsed time": elapsedTime,
